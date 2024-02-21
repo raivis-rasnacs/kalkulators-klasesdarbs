@@ -24,4 +24,4 @@ jobs:
         pip install -r requirements.txt  # Adjust as needed
 
     - name: Run Pytest
-      run: pytest tests/test_kalk.py
+      run: pytest
