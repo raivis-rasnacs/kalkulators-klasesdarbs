@@ -3,7 +3,7 @@ Kalkulators ar 4 darbībām
 """
 
 def saskaitisana(a, b):
-    return a + b + 2
+    return a + b
 
 def atnemsana(a, b):
     return a - b
